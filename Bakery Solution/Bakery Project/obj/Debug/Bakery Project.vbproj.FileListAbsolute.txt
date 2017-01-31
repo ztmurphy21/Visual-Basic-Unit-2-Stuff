@@ -1,0 +1,13 @@
+D:\College\Visual Basic\VB2015\Chap02\Bakery Solution\Bakery Project\bin\Debug\Bakery Project.exe.config
+D:\College\Visual Basic\VB2015\Chap02\Bakery Solution\Bakery Project\bin\Debug\Bakery Project.exe
+D:\College\Visual Basic\VB2015\Chap02\Bakery Solution\Bakery Project\bin\Debug\Bakery Project.pdb
+D:\College\Visual Basic\VB2015\Chap02\Bakery Solution\Bakery Project\bin\Debug\Bakery Project.xml
+D:\College\Visual Basic\VB2015\Chap02\Bakery Solution\Bakery Project\obj\Debug\Bakery Project.vbprojResolveAssemblyReference.cache
+D:\College\Visual Basic\VB2015\Chap02\Bakery Solution\Bakery Project\obj\Debug\Bakery_Project.frmMain.resources
+D:\College\Visual Basic\VB2015\Chap02\Bakery Solution\Bakery Project\obj\Debug\Bakery_Project.Resources.resources
+D:\College\Visual Basic\VB2015\Chap02\Bakery Solution\Bakery Project\obj\Debug\Bakery Project.vbproj.GenerateResource.Cache
+D:\College\Visual Basic\VB2015\Chap02\Bakery Solution\Bakery Project\obj\Debug\Bakery Project.exe
+D:\College\Visual Basic\VB2015\Chap02\Bakery Solution\Bakery Project\obj\Debug\Bakery Project.xml
+D:\College\Visual Basic\VB2015\Chap02\Bakery Solution\Bakery Project\obj\Debug\Bakery Project.pdb
+D:\College\Visual Basic\VB2015\Chap02\Bakery Solution\Bakery Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\College\Visual Basic\VB2015\Chap02\Bakery Solution\Bakery Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
