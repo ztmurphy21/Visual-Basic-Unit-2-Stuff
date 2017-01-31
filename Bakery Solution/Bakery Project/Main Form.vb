@@ -1,4 +1,7 @@
-﻿Public Class frmMain
+﻿' Bakery Program
+' Calculates the total costs for bakey product orders and also allows user to print receipt
+' Programmer: Zachary Murphy 
+Public Class frmMain
     Private Sub btnCalc_Click(sender As Object, e As EventArgs) Handles btnCalc.Click
         ' calculate number of items sold and total sales
 

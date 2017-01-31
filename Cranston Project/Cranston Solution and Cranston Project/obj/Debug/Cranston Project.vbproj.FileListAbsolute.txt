@@ -1,0 +1,22 @@
+D:\College\Visual Basic\Visual-Basic-Unit-2-Stuff\Cranston Solution and Cranston Project\Cranston Solution and Cranston Project\bin\Debug\Cranston Solution and Cranston Project.exe.config
+D:\College\Visual Basic\Visual-Basic-Unit-2-Stuff\Cranston Solution and Cranston Project\Cranston Solution and Cranston Project\bin\Debug\Cranston Solution and Cranston Project.exe
+D:\College\Visual Basic\Visual-Basic-Unit-2-Stuff\Cranston Solution and Cranston Project\Cranston Solution and Cranston Project\bin\Debug\Cranston Solution and Cranston Project.pdb
+D:\College\Visual Basic\Visual-Basic-Unit-2-Stuff\Cranston Solution and Cranston Project\Cranston Solution and Cranston Project\bin\Debug\Cranston Solution and Cranston Project.xml
+D:\College\Visual Basic\Visual-Basic-Unit-2-Stuff\Cranston Solution and Cranston Project\Cranston Solution and Cranston Project\obj\Debug\Cranston Project.vbprojResolveAssemblyReference.cache
+D:\College\Visual Basic\Visual-Basic-Unit-2-Stuff\Cranston Solution and Cranston Project\Cranston Solution and Cranston Project\obj\Debug\Cranston_Solution_and_Cranston_Project.frmMain.resources
+D:\College\Visual Basic\Visual-Basic-Unit-2-Stuff\Cranston Solution and Cranston Project\Cranston Solution and Cranston Project\obj\Debug\Cranston_Solution_and_Cranston_Project.Resources.resources
+D:\College\Visual Basic\Visual-Basic-Unit-2-Stuff\Cranston Solution and Cranston Project\Cranston Solution and Cranston Project\obj\Debug\Cranston Project.vbproj.GenerateResource.Cache
+D:\College\Visual Basic\Visual-Basic-Unit-2-Stuff\Cranston Solution and Cranston Project\Cranston Solution and Cranston Project\obj\Debug\Cranston Solution and Cranston Project.exe
+D:\College\Visual Basic\Visual-Basic-Unit-2-Stuff\Cranston Solution and Cranston Project\Cranston Solution and Cranston Project\obj\Debug\Cranston Solution and Cranston Project.xml
+D:\College\Visual Basic\Visual-Basic-Unit-2-Stuff\Cranston Solution and Cranston Project\Cranston Solution and Cranston Project\obj\Debug\Cranston Solution and Cranston Project.pdb
+D:\College\Visual Basic\Visual-Basic-Unit-2-Stuff\Cranston Project\Cranston Solution and Cranston Project\bin\Debug\Cranston Solution and Cranston Project.exe.config
+D:\College\Visual Basic\Visual-Basic-Unit-2-Stuff\Cranston Project\Cranston Solution and Cranston Project\obj\Debug\Cranston Solution and Cranston Project.exe
+D:\College\Visual Basic\Visual-Basic-Unit-2-Stuff\Cranston Project\Cranston Solution and Cranston Project\obj\Debug\Cranston Solution and Cranston Project.xml
+D:\College\Visual Basic\Visual-Basic-Unit-2-Stuff\Cranston Project\Cranston Solution and Cranston Project\obj\Debug\Cranston Solution and Cranston Project.pdb
+D:\College\Visual Basic\Visual-Basic-Unit-2-Stuff\Cranston Project\Cranston Solution and Cranston Project\bin\Debug\Cranston Solution and Cranston Project.exe
+D:\College\Visual Basic\Visual-Basic-Unit-2-Stuff\Cranston Project\Cranston Solution and Cranston Project\bin\Debug\Cranston Solution and Cranston Project.pdb
+D:\College\Visual Basic\Visual-Basic-Unit-2-Stuff\Cranston Project\Cranston Solution and Cranston Project\bin\Debug\Cranston Solution and Cranston Project.xml
+D:\College\Visual Basic\Visual-Basic-Unit-2-Stuff\Cranston Project\Cranston Solution and Cranston Project\obj\Debug\Cranston Project.vbprojResolveAssemblyReference.cache
+D:\College\Visual Basic\Visual-Basic-Unit-2-Stuff\Cranston Project\Cranston Solution and Cranston Project\obj\Debug\Cranston_Solution_and_Cranston_Project.frmMain.resources
+D:\College\Visual Basic\Visual-Basic-Unit-2-Stuff\Cranston Project\Cranston Solution and Cranston Project\obj\Debug\Cranston_Solution_and_Cranston_Project.Resources.resources
+D:\College\Visual Basic\Visual-Basic-Unit-2-Stuff\Cranston Project\Cranston Solution and Cranston Project\obj\Debug\Cranston Project.vbproj.GenerateResource.Cache
