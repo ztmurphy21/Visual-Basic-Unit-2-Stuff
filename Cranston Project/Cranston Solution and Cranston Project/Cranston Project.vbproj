@@ -6,9 +6,9 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{D685CDD5-F7A9-446A-B438-1B0F770006AF}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>Cranston_Solution_and_Cranston_Project.My.MyApplication</StartupObject>
-    <RootNamespace>Cranston_Solution_and_Cranston_Project</RootNamespace>
-    <AssemblyName>Cranston Solution and Cranston Project</AssemblyName>
+    <StartupObject>Cranston_Solution.My.MyApplication</StartupObject>
+    <RootNamespace>Cranston_Solution</RootNamespace>
+    <AssemblyName>Cranston Solution</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
@@ -21,7 +21,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>Cranston Solution and Cranston Project.xml</DocumentationFile>
+    <DocumentationFile>Cranston Solution.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -31,7 +31,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>Cranston Solution and Cranston Project.xml</DocumentationFile>
+    <DocumentationFile>Cranston Solution.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
@@ -47,6 +47,7 @@
     <OptionInfer>On</OptionInfer>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Deployment" />

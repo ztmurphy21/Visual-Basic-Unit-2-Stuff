@@ -22,6 +22,8 @@ Partial Class frmMain
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Me.components = New System.ComponentModel.Container()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(frmMain))
         Me.lblProjIncrease = New System.Windows.Forms.Label()
         Me.txtProjIncrease = New System.Windows.Forms.TextBox()
         Me.lblCurSales = New System.Windows.Forms.Label()
@@ -39,6 +41,7 @@ Partial Class frmMain
         Me.lblStraw = New System.Windows.Forms.Label()
         Me.lblBlue = New System.Windows.Forms.Label()
         Me.lblRasp = New System.Windows.Forms.Label()
+        Me.PrintForm1 = New Microsoft.VisualBasic.PowerPacks.Printing.PrintForm(Me.components)
         Me.SuspendLayout()
         '
         'lblProjIncrease
@@ -186,6 +189,14 @@ Partial Class frmMain
         Me.lblRasp.TabIndex = 0
         Me.lblRasp.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
+        'PrintForm1
+        '
+        Me.PrintForm1.DocumentName = "document"
+        Me.PrintForm1.Form = Me
+        Me.PrintForm1.PrintAction = System.Drawing.Printing.PrintAction.PrintToPreview
+        Me.PrintForm1.PrinterSettings = CType(resources.GetObject("PrintForm1.PrinterSettings"), System.Drawing.Printing.PrinterSettings)
+        Me.PrintForm1.PrintFileName = Nothing
+        '
         'frmMain
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 20.0!)
@@ -233,4 +244,5 @@ Partial Class frmMain
     Friend WithEvents lblStraw As Label
     Friend WithEvents lblBlue As Label
     Friend WithEvents lblRasp As Label
+    Friend WithEvents PrintForm1 As PowerPacks.Printing.PrintForm
 End Class

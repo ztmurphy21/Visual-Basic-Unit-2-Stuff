@@ -20,3 +20,6 @@ D:\College\Visual Basic\Visual-Basic-Unit-2-Stuff\Cranston Project\Cranston Solu
 D:\College\Visual Basic\Visual-Basic-Unit-2-Stuff\Cranston Project\Cranston Solution and Cranston Project\obj\Debug\Cranston_Solution_and_Cranston_Project.frmMain.resources
 D:\College\Visual Basic\Visual-Basic-Unit-2-Stuff\Cranston Project\Cranston Solution and Cranston Project\obj\Debug\Cranston_Solution_and_Cranston_Project.Resources.resources
 D:\College\Visual Basic\Visual-Basic-Unit-2-Stuff\Cranston Project\Cranston Solution and Cranston Project\obj\Debug\Cranston Project.vbproj.GenerateResource.Cache
+D:\College\Visual Basic\Visual-Basic-Unit-2-Stuff\Cranston Project\Cranston Solution and Cranston Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\College\Visual Basic\Visual-Basic-Unit-2-Stuff\Cranston Project\Cranston Solution and Cranston Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\College\Visual Basic\Visual-Basic-Unit-2-Stuff\Cranston Project\Cranston Solution and Cranston Project\bin\Debug\Cranston Solution.exe.config
